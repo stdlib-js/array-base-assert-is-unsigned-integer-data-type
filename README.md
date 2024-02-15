@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isUnsignedIntegerDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-is-unsigned-integer-data-type@esm/index.mjs';
+import isUnsignedIntegerDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-is-unsigned-integer-data-type@v0.2.0-esm/index.mjs';
 ```
 
 #### isUnsignedIntegerDataType( value )
@@ -93,7 +93,7 @@ bool = isUnsignedIntegerDataType( 'uint32' );
 <body>
 <script type="module">
 
-import isUnsignedIntegerDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-is-unsigned-integer-data-type@esm/index.mjs';
+import isUnsignedIntegerDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-is-unsigned-integer-data-type@v0.2.0-esm/index.mjs';
 
 var bool = isUnsignedIntegerDataType( 'float32' );
 // returns false
